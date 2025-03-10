@@ -37,12 +37,12 @@ ScreenMatchAula/
 
 
 # Como executar o projeto
-Clone o repositório: git clone https://github.com/seu-usuario/screenmatch.git
-Abra o projeto em uma IDE como IntelliJ ou VS Code.
-Certifique-se de ter o Java instalado (versão 17 ou superior).
-Adicione o Gson nas dependecies do projeto
-Coloque sua API key no projeto
-Execute a classe principal.
+- Clone o repositório: git clone https://github.com/seu-usuario/screenmatch.git
+- Abra o projeto em uma IDE como IntelliJ ou VS Code.
+- Certifique-se de ter o Java instalado (versão 17 ou superior).
+- Adicione o Gson nas dependecies do projeto
+- Coloque sua API key no projeto
+- Execute a classe principal.
 
 # Versões Futuras
 Uma versão mais completa do projeto está em desenvolvimento, utilizando Spring Boot, banco de dados e front-end.
