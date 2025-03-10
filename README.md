@@ -37,7 +37,7 @@ ScreenMatchAula/
 
 
 # Como executar o projeto
-- Clone o repositório: git clone https://github.com/seu-usuario/screenmatch.git
+- Clone o repositório: git clone https://github.com/Joao-Pedro-Sa/screenmatch-curso.git
 - Abra o projeto em uma IDE como IntelliJ ou VS Code.
 - Certifique-se de ter o Java instalado (versão 17 ou superior).
 - Adicione o Gson nas dependecies do projeto
